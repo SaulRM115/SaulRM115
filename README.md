@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saul Rivera</h1>
-<h3 align="center">Junior Software developer interesterd in web techologies, specially fronted; thrives in collaborative team environments, appreciation for the value of teamwork and are committed to continuous learning and self-improvement.</h3>
+<h3 align="center"Junior software developer interested in web technologies, especially frontend; thrives in collaborative team environments, has an appreciation for the value of teamwork, and is committed to continuous learning and self-improvement.</h3>
 
-! [Design and development](<imageurl>)
+<img align="right" alt="banner" src="">
 
 
 - 🌱 I’m currently learning **Node.js ,PHP ,UML, Swift.**
