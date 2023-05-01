@@ -4,23 +4,39 @@
 <h2 align="center">ABOUT ME</h3>
 <h3 align="center">Hi there! 👋 I'm a Junior Software Developer with a passion for web technologies, I'm committed to continuous learning and self-improvement, and I'm always looking for new challenges and opportunities to grow.</p></h3>
 
+<br>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/72227/screenshots/2595118/media/f082e58bc3e3e99f76f044f9ac4cab43.gif">
 
 
 
-- 🌱 I’m currently learning **Node.js ,PHP, UML.**
+<table>
+  <tr>
+    <td>
+      🌱 I'm currently learning <strong>Node.js, PHP, UML.</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      💬 Ask me about <strong>HTML, Bootstrap, JS.</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      📫 How to reach me <strong>saul.rivera_mora@outlook.com</strong>
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **HTML, Bootstap, JS**
 
-- 📫 How to reach me **saul.rivera_mora@outlook.com**
-
-
+<br>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saulriveratm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saulriveratm" height="30" width="40" /></a>
 </p>
 
+<br>
 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
